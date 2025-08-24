@@ -1,0 +1,9 @@
+# Laboratorio 2 – Interacción con el Robot Pepper
+
+En este laboratorio se buscó profundizar en la comprensión y manejo del robot Pepper, centrándose en la programación de movimientos y secuencias básicas a través de herramientas gráficas y código. El propósito principal fue que los estudiantes adquirieran habilidades prácticas en la implementación de librerías esenciales para el control del robot y comprendieran cómo estas facilitan la interacción con sus distintos sistemas.
+
+Se trabajó específicamente con las librerías qi, argparse, sys, os, almath, math, motion, httplib y json, las cuales permiten desde la comunicación con los servicios internos de Pepper hasta la ejecución de operaciones matemáticas y de movimiento complejas. La exploración de estas librerías permitió analizar cómo cada una contribuye al control y coordinación de los actuadores del robot, mostrando la relación directa entre programación y comportamiento físico de Pepper.
+
+El laboratorio incluyó dos metodologías de implementación: mediante Choregraphe, donde se diseñaron secuencias sencillas de pasos gráficos para observar la respuesta inmediata del robot, y mediante la consola SSH, utilizando scripts en Python creados con nano. Este enfoque permitió a los estudiantes entender tanto la programación visual como la textual, y cómo las librerías investigadas se aplican en entornos reales para generar movimientos coordinados y precisos.
+
+Finalmente, toda la actividad fue documentada en un informe digital en Overleaf, detallando la instalación de librerías, los pasos de conexión al robot, la creación de scripts y la ejecución de secuencias, y se organizó en un repositorio de GitHub bajo la carpeta “Laboratorio 2”. Este ejercicio reforzó la comprensión de la integración de software y hardware, la importancia de la documentación técnica y la capacidad de resolver problemas prácticos en robótica social.
